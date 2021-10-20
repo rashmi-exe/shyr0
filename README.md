@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shyr0 	:nerd_face: Real name :- RASHMI
+- 👋 Hi, I’m @ RASHMI
 - :student: I'm a Btech Undergraduate majoring in ELECTRONICS AND COMMUNICATION ENGINEERING
 - 👀 I’m interested in sofware development and image processing.
 - :computer: I’m also interested in arduino projects.
